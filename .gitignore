@@ -1,0 +1,7 @@
+/node_modules
+.env
+
+#exclude all files inside downloads folder
+downloads/*
+#except .gitkeep
+!downloads/.gitkeep
